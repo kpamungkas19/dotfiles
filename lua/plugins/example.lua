@@ -13,6 +13,7 @@ return {
     "LazyVim/LazyVim",
     opts = {
       colorscheme = "gruvbox",
+      f,
     },
   },
 
@@ -127,9 +128,13 @@ return {
         "query",
         "regex",
         "tsx",
+        "php",
         "typescript",
         "vim",
         "yaml",
+        "http",
+        "java",
+        "css",
       },
     },
   },
